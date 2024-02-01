@@ -7,7 +7,7 @@ This simple Python script generates a madlib based on user input for verbs and d
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/madlib-generator.git
+    git clone https://github.com/mj-weshh/madlib-generator.git
     ```
 
 2. Navigate to the project directory:
